@@ -1,0 +1,27 @@
+{
+  "name": "tipsy",
+  "version": "1.0.0",
+  "description": "Tipsy tooltip plugin",
+  "main": "src/javascripts/jquery.tipsy.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jnu/tipsy.git"
+  },
+  "keywords": [
+    "tipsy",
+    "jquery",
+    "tooltip"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jnu/tipsy/issues"
+  },
+  "homepage": "https://github.com/jnu/tipsy#readme"
+}
