@@ -1,6 +1,6 @@
 {
   "name": "tipsy",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Tipsy tooltip plugin",
   "main": "src/javascripts/jquery.tipsy.js",
   "directories": {
