@@ -23,5 +23,8 @@
   "bugs": {
     "url": "https://github.com/jnu/tipsy/issues"
   },
-  "homepage": "https://github.com/jnu/tipsy#readme"
+  "homepage": "https://github.com/jnu/tipsy#readme",
+  "peerDependencies": {
+    "jquery": "2.x.x"
+  }
 }
